@@ -484,7 +484,7 @@ body{
   justify-content: center;
   font-weight: 800;
   font-size: 1.5em;
-  background-image:url('/image/IMG_2840.PNG') ;
+  background-image:url('./image/IMG_2840.PNG') ;
   background-position: top;
   background-repeat: no-repeat;
   background-size: cover;
